@@ -1,0 +1,2 @@
+include ':app', ':beyondar'
+project(':beyondar').projectDir = new File('beyondar')
