@@ -7,7 +7,7 @@ Don't forget to check the [wiki](https://github.com/BeyondAR/beyondar/wiki) and 
 
 BeyondAR platform only supports Android (Google Glass included). We are currently working to support other platforms.
 
-<b>This fork refactors the project to work with Android Studio and Gradle.<b>
+<b>This fork refactors the project to work with Android Studio and Gradle.</b>
 
 <table  border="0" align="center">
 <tr>
