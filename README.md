@@ -1,4 +1,4 @@
-Beyondar
+Beyondar (Gradle)
 ========
 
 This framework has been designed to offer some resources to those developers with an interest in working with Augmented Reality based on geolocalization on SmartPhones and tablets.
@@ -7,6 +7,7 @@ Don't forget to check the [wiki](https://github.com/BeyondAR/beyondar/wiki) and 
 
 BeyondAR platform only supports Android (Google Glass included). We are currently working to support other platforms.
 
+<b>This fork refactors the project to work with Android Studio and Gradle.<b>
 
 <table  border="0" align="center">
 <tr>
